@@ -1,2 +1,2 @@
-# alura1
-estudos
+# alura start
+estudos do programa AluraStart  
